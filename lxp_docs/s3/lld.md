@@ -1,4 +1,4 @@
-``m̀ermaid
+```mermaid
 flowchart TD
     %% Client Layer Details
     subgraph Clients["Client Components"]
